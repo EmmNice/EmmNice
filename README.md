@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmmNice
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning to become a tech guy
-- 💞️ I’m looking to collaborate with anyone who will be my turor or mentor 
+- 💞️ I’m looking to collaborate with anyone who will be my tutor or mentor 
 - 📫 How to reach me itzemmyn@gmail.com
 
 <!---
